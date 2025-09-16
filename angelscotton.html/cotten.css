@@ -1,0 +1,28 @@
+*{
+    margin: 2px;
+    padding: 1px;
+}
+body{
+    background-color: chartreuse;
+    display:flex;
+    flex-direction:cover;
+}
+h1{
+    background-color: red;
+    border: 40%;
+}
+li{
+    background-color: white;
+}
+h3{
+    background-color: white;
+}
+p{
+    background-color:darkgreen;
+}
+h4{
+    background-color: white;
+}
+span{
+    background-color: red;
+}
